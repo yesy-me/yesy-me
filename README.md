@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Hi, I'm Yesy! 👋" />
+  <img src="./header.png" alt="Hi, I'm Yesy! 👋" />
 </p>
 
 I've mastered—self-proclaimed—English syntax, both formal and informal. So why not have fun testing my luck with the syntax of these programming languages?
